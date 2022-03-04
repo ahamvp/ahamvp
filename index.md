@@ -1,7 +1,13 @@
 # Aha, MVP!
 
-![image](https://user-images.githubusercontent.com/100821011/156494119-3f99de87-bc3f-4546-b888-824614c5a723.png)
+![image](https://user-images.githubusercontent.com/100821011/156701023-57e1abb4-ee67-4bee-b2a6-3e88178eb5de.png)
 > Minimum Viable Product
+
+[什么是 MVP](http://www.woshipm.com/pd/879821.html)
+
+MVP （最小化可实行产品，Minimum Viable Product）是 Eric Ries 在[《精益创业》](https://book.douban.com/subject/10945606/)中关于「精益创业」（Lean Startup）的核心思想，意思是用最快、最简明的方式建立一个可用的产品原型，通过这个最简单的原型来测试产品是否符合市场预期，并通过不断的快速迭代来修正产品，最终适应市场需求。
+
+> 简单来说，就是在做一个新产品的时候，不要一下子做一个「尽善尽美」的产品，而是先花费最小的代价做一个「可用」的产品原型，去验证这个产品是否有价值、是否可行，再通过迭代来完善细节。
 
 [「被讨厌的勇气」](https://book.douban.com/subject/26369699/)并不是要去吸引被讨厌的负向能量，而是，如果这是我生命想绽放出最美的光彩，那么，即使有被讨厌的可能，我都要用自己的双手双脚往那里走去。」
 「因为拥有了被讨厌的勇气，于是有了真正幸福的可能。」
